@@ -1,0 +1,14 @@
+{
+  "description": "octoshrimpy.is-a.dev.",
+  "repo": "https://github.com/octoshrimpy",
+  "owner": {
+    "username": "octoshrimpy",
+    "email": "",
+    "twitter": "octoshrimpy"
+  },
+  "record": {
+    "CNAME": "https://github.com/octoshrimpy",
+    "TXT": "hello, sneaky friend! :D"
+  }
+
+}
